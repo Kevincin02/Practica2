@@ -1,0 +1,17 @@
+#titulo{
+    text-align: center;
+    color: white;
+    background-color: purple;
+
+}
+/*ELECTOR DE CLASES*/
+.importante {
+    color: gray;
+    background-color: red;
+}
+.parrafo {
+    color: purple;
+}
+h1 {
+    background-color: beige;
+}
